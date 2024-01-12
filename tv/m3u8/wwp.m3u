@@ -103,6 +103,400 @@ https://cloud.yumixiu768.com/tmp/123.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
 
 
+####
+###b=百视RV
+#EXTINF:-1 ,百视TV1
+https://bp-caster.bestv.com.cn/954/3/video.m3u8
+#EXTINF:-1 ,百视TV2
+https://bp-caster.bestv.com.cn/926/3/video.m3u8
+#EXTINF:-1 ,百视TV3
+https://bp-caster.bestv.com.cn/945/3/video.m3u8
+#EXTINF:-1 ,百视TV4
+https://bp-caster.bestv.com.cn/900/3/video.m3u8
+#EXTINF:-1 ,百视TV5
+https://bp-caster.bestv.com.cn/956/3/video.m3u8
+#EXTINF:-1 ,百视TV6
+https://bp-caster.bestv.com.cn/947/3/video.m3u8
+#EXTINF:-1 ,百视TV7
+https://bp-caster.bestv.com.cn/941/3/video.m3u8
+#EXTINF:-1 ,百视TV8
+https://bp-caster.bestv.com.cn/953/3/video.m3u8
+#EXTINF:-1 ,百视TV9
+https://bp-caster.bestv.com.cn/939/3/video.m3u8
+#EXTINF:-1 ,百视TV10
+https://bp-caster.bestv.com.cn/938/3/video.m3u8
+#EXTINF:-1 ,百视TV11
+https://bp-caster.bestv.com.cn/937/3/video.m3u8
+#EXTINF:-1 ,百视TV12
+https://bp-caster.bestv.com.cn/943/3/video.m3u8
+#EXTINF:-1 ,百视TV14
+https://bp-caster.bestv.com.cn/934/3/video.m3u8
+#EXTINF:-1 ,百视独播1
+https://bp-caster.bestv.com.cn/946/3/video.m3u8
+#EXTINF:-1 ,百视独播2
+https://bp-caster.bestv.com.cn/955/3/video.m3u8
+#EXTINF:-1 ,百视独播3
+https://bp-caster.bestv.com.cn/940/3/video.m3u8
+#EXTINF:-1 ,百视独播4
+https://bp-caster.bestv.com.cn/944/3/video.m3u8
+#EXTINF:-1 ,百视自制
+https://bp-caster.bestv.com.cn/723/3/video.m3u8
+#EXTINF:-1 ,独家直播
+https://bp-caster.bestv.com.cn/936/3/video.m3u8
+
+####
+
+###电视剧轮播
+#EXTINF:-1 ,神雕侠侣
+https://live.metshop.top/yy/1351762426
+#EXTINF:-1 ,倚天屠龙记
+https://live.metshop.top/yy/1449856066
+#EXTINF:-1 ,天龙八部
+https://live.metshop.top/yy/1351814644
+#EXTINF:-1 ,笑傲江湖
+https://live.metshop.top/yy/1354936128
+#EXTINF:-1 ,鹿鼎记
+https://live.metshop.top/yy/28265277
+#EXTINF:-1 ,寻秦记
+https://live.metshop.top/yy/1382749900
+#EXTINF:-1 ,封神榜
+https://live.metshop.top/yy/1353426319
+#EXTINF:-1 ,新白娘子传奇
+https://live.metshop.top/yy/1354490667
+#EXTINF:-1 ,新白娘子传奇-修复版
+https://live.metshop.top/yy/1354930969
+#EXTINF:-1 ,钟馗传说
+https://live.metshop.top/yy/1382736839
+#EXTINF:-1 ,红楼梦
+https://live.metshop.top/yy/1382745084
+#EXTINF:-1 ,三国演义
+https://live.metshop.top/yy/1354936241
+#EXTINF:-1 ,西游记后传
+https://live.metshop.top/yy/1353392400
+#EXTINF:-1 ,少年包青天
+https://live.metshop.top/yy/38498680
+#EXTINF:-1 ,宰相刘罗锅
+https://live.metshop.top/yy/1353892468
+#EXTINF:-1 ,庆余年
+http://diyp.112114.xyz/douyu/7489563
+#EXTINF:-1 ,知否知否应是绿肥红瘦
+https://live.metshop.top/yy/21881901
+#EXTINF:-1 ,仙剑奇侠传
+https://live.metshop.top/yy/1382749903
+#EXTINF:-1 ,金装四大才子
+https://live.metshop.top/yy/1354926600
+#EXTINF:-1 ,公主嫁到
+https://live.metshop.top/yy/1382736915
+#EXTINF:-1 ,耀舞长安
+https://live.metshop.top/yy/1382741640
+#EXTINF:-1 ,上海滩
+https://live.metshop.top/yy/1382745184
+#EXTINF:-1 ,大时代
+https://live.metshop.top/yy/1354930891
+#EXTINF:-1 ,法证先锋
+https://live.metshop.top/yy/1354930965
+#EXTINF:-1 ,飞虎之潜行极战
+https://live.metshop.top/yy/1354932420
+#EXTINF:-1 ,放羊的星星
+https://live.metshop.top/yy/1355260662
+#EXTINF:-1 ,天道
+https://live.metshop.top/yy/1382735574
+#EXTINF:-1 ,安家
+https://live.metshop.top/yy/12086226
+#EXTINF:-1 ,欢乐颂
+https://live.metshop.top/yy/1382735624
+#EXTINF:-1 ,平凡岁月
+https://live.metshop.top/yy/1382745117
+#EXTINF:-1 ,苦乐村官
+https://live.metshop.top/yy/1382736864
+#EXTINF:-1 ,金星脱口秀
+https://live.metshop.top/yy/1354932407
+#EXTINF:-1 ,航拍中国第1季
+https://live.metshop.top/yy/1354936136
+
+
+####
+###电影
+#EXTINF:-1 ,星卫电影
+http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
+#EXTINF:-1 ,龙祥电影
+http://50.7.238.114:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
+#EXTINF:-1 ,东森电影
+http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
+
+
+####
+###港澳台
+#EXTINF:-1 ,凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+#EXTINF:-1 ,凤凰香港
+http://198.16.100.90:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
+#EXTINF:-1 ,求索生活
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
+#EXTINF:-1 ,无线新闻
+http://live.cooltv.top/tv/tvb.php?id=0&hq
+#EXTINF:-1 ,无线财经
+http://live.cooltv.top/tv/tvb.php?id=2&hq
+#EXTINF:-1 ,面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 ,TVBS
+http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
+#EXTINF:-1 ,TVBS欢乐台
+http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8?tid=MA5A9262292692622926&ct=19254&tsum=cd369d68a5d2c1a2fa04df748cda142c
+#EXTINF:-1 ,华视
+http://198.16.100.90:8278/ctshd_twn/playlist.m3u8?tid=MC3C3582911835829118&ct=19249&tsum=f2c0c86801d43be647206c4ddb8e9ce6
+#EXTINF:-1 ,中视
+http://198.16.100.90:8278/zhongshihd_twn/playlist.m3u8?tid=MBDB6720263767202637&ct=19249&tsum=edd778f298b53c39b3b9706700032605
+#EXTINF:-1 ,中视经典
+http://198.16.100.90:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
+#EXTINF:-1 ,中天娱乐
+http://198.16.100.90:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
+#EXTINF:-1 ,民视台湾台
+http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
+#EXTINF:-1 ,民视新闻台
+http://198.16.100.90:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
+#EXTINF:-1 ,东森新闻台
+http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MD1D1428989414289894&ct=19346&tsum=d8fc0ab62e1d97aaca4279883cb1101c
+#EXTINF:-1 ,Eleven
+http://198.16.100.90:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
+#EXTINF:-1 ,EYETV旅游
+http://198.16.100.90:8278/eyetvtravel_twn/playlist.m3u8?tid=MFDF5066608450666084&ct=19254&tsum=0bb4cbfc0d32bff89ab5b3a5352fcf94
+#EXTINF:-1 ,靖天国际台
+http://198.16.100.90:8278/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b
+#EXTINF:-1 ,点掌财经
+https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
+#EXTINF:-1 ,耀才财经
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
+
+
+
+####
+国际频道
+#EXTINF:-1 ,纬来日本
+http://50.7.238.114:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb
+#EXTINF:-1 ,日语新闻台
+https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
+#EXTINF:-1 ,韩国国防TV
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+#EXTINF:-1 ,新加坡亚太台
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 ,新加坡8
+http://198.16.100.90:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
+#EXTINF:-1 ,StarHD
+http://livestar.siliconweb.com/media/star1/star1.m3u8
+#EXTINF:-1 ,泰国ASTV
+http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:-1 ,朝鲜KCTV
+http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+#EXTINF:-1 ,韩国TVN电影
+http://198.16.100.90:8278/Tvnmovie/playlist.m3u8?tid=MFFF1556953015569530&ct=19254&tsum=f4498d6da7a4ccf9064e26396a90e4a7
+
+
+####
+###国际台#genre
+#EXTINF:-1 ,亚洲新闻
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 ,半岛新闻
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 ,半岛新闻
+http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+#EXTINF:-1 ,Thai PBS 3
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 ,Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 ,FASHIONTV
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
+#EXTINF:-1 ,FASHIONTV 4K
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 ,金砖电视
+http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,亚洲新闻720P
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 ,亚洲新闻1080P
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 ,GOOD卡通
+https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
+
+####
+###静态源
+#EXTINF:-1 ,河北卫视
+http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3944fff7fdd8f8caf6adce2c9a0ef126
+#EXTINF:-1 ,河北卫视
+http://tv.pull.hebtv.com/jishi/weishipindao.flv?t=2510710360&k=14376f1bfbae59edda8d6e8de3ceb0c6
+#EXTINF:-1 ,河北都市
+http://tv.pull.hebtv.com/jishi/dushipindao.flv?t=2510710360&k=7bd4710986c2af7552dcf3d4686da62b
+#EXTINF:-1 ,河北公共
+http://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=2510710360&k=753a034a499730b224c99667ec91eb4e
+#EXTINF:-1 ,河北公共
+http://tv.pull.hebtv.com/jishi/gonggongpindao.flv?t=2510710360&k=cff96e95e38e24efef71d7b2d9e884b9
+#EXTINF:-1 ,河北经济
+http://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=2510710360&k=5ae52d7ff5118e85c19a12237a3518cb
+#EXTINF:-1 ,河北经济
+http://tv.pull.hebtv.com/jishi/jingjishenghuo.flv?t=2510710360&k=6494958546ba14f920b575250b82577d
+#EXTINF:-1 ,河北农民
+http://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=2510710360&k=1c19f1e16256d45e9fdcb9b6725647cc
+#EXTINF:-1 ,河北农民
+http://tv.pull.hebtv.com/jishi/nongminpindao.flv?t=2510710360&k=644e1285d17a22dfa4febf82d6a7edb5
+#EXTINF:-1 ,河北少儿科教
+http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=35e8479f6ac81ee25729454e88afa17c
+#EXTINF:-1 ,河北少儿科教
+http://tv.pull.hebtv.com/jishi/shaoerkejiao.flv?t=2510710360&k=9a91756059554d7dceec82db96be148b
+#EXTINF:-1 ,河北影视剧
+http://tv.pull.hebtv.com/jishi/yingshijupindao.m3u8?t=2510710360&k=22da13f91d94e04e4935c5ed39dbdb62
+#EXTINF:-1 ,河北影视剧
+http://tv.pull.hebtv.com/jishi/yingshijupindao.flv?t=2510710360&k=615492494de96b182322e871a6df4eb2
+#EXTINF:-1 ,江苏卫视
+https://live-hls.jstv.com/livezhuzhan/jsws.m3u8?upt=9525d28f2510710360
+#EXTINF:-1 ,江苏城市
+https://live-hls.jstv.com/livezhuzhan/jscs.m3u8?upt=9bc4860f2510710360
+#EXTINF:-1 ,江苏影视
+https://live-hls.jstv.com/livezhuzhan/jsys.m3u8?upt=2012408f2510710360
+#EXTINF:-1 ,江苏综艺
+https://live-hls.jstv.com/livezhuzhan/jszy.m3u8?upt=c472cfa22510710360
+#EXTINF:-1 ,江苏公共新闻
+https://live-hls.jstv.com/livezhuzhan/jsgg.m3u8?upt=4383b1d62510710360
+#EXTINF:-1 ,江苏体育休闲
+https://live-hls.jstv.com/livezhuzhan/jsty.m3u8?upt=7f5cca872510710360
+#EXTINF:-1 ,江苏教育
+https://live-hls.jstv.com/livezhuzhan/jsjy.m3u8?upt=cb7c273e2510710360
+#EXTINF:-1 ,江苏国际
+https://live-hls.jstv.com/livezhuzhan/jsgj.m3u8?upt=624fbf672510710360
+#EXTINF:-1 ,好享购物
+https://live-hls.jstv.com/livezhuzhan/hxgw.m3u8?upt=5ef506892510710360
+#EXTINF:-1 ,优漫卡通
+https://live-hls.jstv.com/livezhuzhan/ymkt.m3u8?upt=230be0e52510710360
+#EXTINF:-1 ,宁夏卫视
+https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
+#EXTINF:-1 ,宁夏公共
+https://hls.ningxiahuangheyun.com/live/nxgg1M.m3u8
+#EXTINF:-1 ,宁夏经济
+https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8
+#EXTINF:-1 ,宁夏文旅
+https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8
+#EXTINF:-1 ,宁夏少儿
+https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
+#EXTINF:-1 ,青海卫视
+http://stream.qhbtv.com/qhws/sd/live.m3u8
+#EXTINF:-1 ,青海经视
+http://stream.qhbtv.com/qhsh/playlist.m3u8
+#EXTINF:-1 ,青海都市
+http://stream.qhbtv.com/qhds/playlist.m3u8
+#EXTINF:-1 ,新闻综合
+http://stream2.qhbtv.com/xwzh/playlist.m3u8
+
+#####
+###未来电视
+#EXTINF:-1 ,超级电视剧_8M1080_易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000006000268003/index.m3u8?channel-id=ystenlive&Contentid=1000000006000268003&livemode=1&stbId=3
+#EXTINF:-1 ,超级电视剧_4M1080_湖南bblive
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000032/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000032&livemode=1&stbId=3
+#EXTINF:-1 ,超级电视剧_4M1080_易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000008139/index.m3u8?channel-id=ystenlive&Contentid=1000000001000008139&livemode=1&stbId=3
+#EXTINF:-1 ,超级电视剧_4M1080_易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000024993/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024993&livemode=1&stbId=3
+#EXTINF:-1 ,超级电影_8M1080_易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000003000012426/index.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=3
+#EXTINF:-1 ,超级电影_4M1080_湖南bblive
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000031/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000031&livemode=1&stbId=3
+#EXTINF:-1 ,超级电影_4M1080_易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000012884/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012884&livemode=1&stbId=3
+#EXTINF:-1 ,超级电影_4M1080_易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000002120/index.m3u8?channel-id=ystenlive&Contentid=1000000004000002120&livemode=1&stbId=3
+#EXTINF:-1 ,军事评论_4M1080_湖南bblive
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000022/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000022&livemode=1&stbId=3
+#EXTINF:-1 ,魅力潇湘_4M1080_湖南bblive
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000041/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000041&livemode=1&stbId=3
+#EXTINF:-1 ,魅力潇湘_4M1080_易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000006197/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=3
+#EXTINF:-1 ,魅力潇湘_4M1080_易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000005000266014/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266014&livemode=1&stbId=3
+#EXTINF:-1 ,热播精选_4M1080_湖南bblive
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000016/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000016&livemode=1&stbId=3
+#EXTINF:-1 ,农业致富_4M1080_湖南bblive
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000003/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000003&livemode=1&stbId=3
+#EXTINF:-1 ,武搏世界_4M1080_湖南bblive
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000007/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000007&livemode=1&stbId=3
+#EXTINF:-1 ,炫舞未来_4M1080_湖南bblive
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000044/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000044&livemode=1&stbId=3
+#EXTINF:-1 ,炫舞未来_4M1080_易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000000515/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=3
+#EXTINF:-1 ,怡伴健康_4M1080_湖南bblive
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000023/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000023&livemode=1&stbId=3
+#EXTINF:-1 ,爱情喜剧_4M1080_湖南bblive
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000010/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000010&livemode=1&stbId=3
+#EXTINF:-1 ,超级体育_8M1080_易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000009601/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=3
+#EXTINF:-1 ,超级体育_4M1080_湖南bblive
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000030/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000030&livemode=1&stbId=3
+#EXTINF:-1 ,超级体育_4M1080_易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000009204/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009204&livemode=1&stbId=3
+#EXTINF:-1 ,超级体育_4M1080_易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000007755/index.m3u8?channel-id=ystenlive&Contentid=1000000004000007755&livemode=1&stbId=3
+#EXTINF:-1 ,超级综艺_8M1080_易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000006000268002/index.m3u8?channel-id=ystenlive&Contentid=1000000006000268002&livemode=1&stbId=3
+#EXTINF:-1 ,超级综艺_4M1080_湖南bblive
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000029/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000029&livemode=1&stbId=3
+#EXTINF:-1 ,超级综艺_4M1080_易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000025771/index.m3u8?channel-id=ystenlive&Contentid=1000000001000025771&livemode=1&stbId=3
+#EXTINF:-1 ,超级综艺_4M1080_易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000023658/index.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=3
+#EXTINF:-1 ,潮妈辣婆_4M1080_湖南bblive
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000018/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000018&livemode=1&stbId=3
+#EXTINF:-1 ,东北热剧_4M1080_易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000005000266013/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266013&livemode=1&stbId=3
+#EXTINF:-1 ,东北热剧_4M1080_湖南bblive
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000051/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000051&livemode=1&stbId=3
+#EXTINF:-1 ,动作电影_4M1080_湖南bblive
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000017/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000017&livemode=1&stbId=3
+#EXTINF:-1 ,动作电影_4M1080_易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000018653/index.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3
+#EXTINF:-1 ,古装剧场_4M1080_湖南bblive
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000024/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000024&livemode=1&stbId=3
+#EXTINF:-1 ,欢乐剧场_4M1080_湖南bblive
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000050/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000050&livemode=1&stbId=3
+#EXTINF:-1 ,欢乐剧场_4M1080_易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000005000266012/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266012&livemode=1&stbId=3
+#EXTINF:-1 ,家庭剧场_4M1080_湖南bblive
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000012/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000012&livemode=1&stbId=3
+#EXTINF:-1 ,家庭剧场_4M1080_易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000008284/index.m3u8?channel-id=ystenlive&Contentid=1000000004000008284&livemode=1&stbId=3
+#EXTINF:-1 ,金牌综艺_4M1080_湖南bblive
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000005/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000005&livemode=1&stbId=3
+#EXTINF:-1 ,金牌综艺_4M1080_易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000026167/index.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=3
+#EXTINF:-1 ,惊悚悬疑_4M1080_湖南bblive
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000015/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000015&livemode=1&stbId=3
+#EXTINF:-1 ,惊悚悬疑_4M1080_易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000024282/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3
+#EXTINF:-1 ,精品大剧_4M1080_湖南bblive
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000020/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000020&livemode=1&stbId=3
+#EXTINF:-1 ,精品大剧_4M1080_易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000013968/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013968&livemode=1&stbId=3
+#EXTINF:-1 ,精品纪录_4M1080_易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000013730/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013730&livemode=1&stbId=3
+#EXTINF:-1 ,精品记录_4M1080_湖南bblive
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000019/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000019&livemode=1&stbId=3
+#EXTINF:-1 ,精品萌宠_4M1080_湖南bblive
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000067/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000067&livemode=1&stbId=3
+#EXTINF:-1 ,精品萌宠_4M1080_易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000006000032328/index.m3u8?channel-id=ystenlive&Contentid=1000000006000032328&livemode=1&stbId=3
+#EXTINF:-1 ,精品体育_4M1080_湖南bblive
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000021/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000021&livemode=1&stbId=3
+#EXTINF:-1 ,精品体育_4M1080_易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000014634/index.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=3
+#EXTINF:-1 ,精品综合_4M1080_湖南bblive
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000008/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000008&livemode=1&stbId=3
+#EXTINF:-1 ,精品综合_4M1080_易视腾
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000019008/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=3
+#EXTINF:-1 ,军旅剧场_4M1080_湖南bblive
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000014/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000014&livemode=1&stbId=3
+#EXTINF:-1 ,中国功夫_4M1080_湖南bblive
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000009/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000009&livemode=1&stbId=3
+
+
+
 #EXTINF:-1 ,后面不可用
 hmbky
 
